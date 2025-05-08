@@ -324,6 +324,14 @@ border: none;
   .testimonials-image {
     width: 40%;
   }
+  .bottom-container {
+    gap: 15px;
+    padding: 15px;
+  }
+
+  .bottom-container a {
+    font-size: 20px;
+  }
   h1, .brand-h1 {
     font-size: 2.5rem;
   }
